@@ -1,0 +1,1 @@
+React Boilerplate Component for npm
