@@ -2,10 +2,10 @@ var path = require('path');
 
 module.exports = {
     mode: 'production',
-    entry: './src/BoilerplateComponent.jsx',
+    entry: './src/ReactComponent.jsx',
     output: {
         path: path.resolve('lib'),
-        filename: 'BoilerplateComponent.js',
+        filename: 'ReactComponent.js',
         libraryTarget: 'commonjs2'
     },
     module: {

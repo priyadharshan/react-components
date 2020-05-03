@@ -11,7 +11,7 @@
         "type": "git",
         "url": "https://github.com/priyadharshan/react-components"
     },
-    "main": "./lib/BoilerplateComponent.js",
+    "main": "./lib/ReactComponent.js",
     "license": "MIT",
     "scripts": {
         "build": "webpack"
